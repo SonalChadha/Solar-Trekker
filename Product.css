@@ -4,7 +4,7 @@ a:link, a:visited {
 	color: #add8e6;
 }
 
-#mail a:link, a:visited {
+#mail > a:link, a:visited {
 	color: #000099;
 }
 
