@@ -4,6 +4,10 @@ a:link, a:visited {
 	color: #add8e6;
 }
 
+#mail a:link, a:visited {
+	color: blue;
+}
+
 body,html{
 	overflow-x:hidden;
 	min-width:375px;
